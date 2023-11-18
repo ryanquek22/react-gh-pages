@@ -12,6 +12,12 @@ Progress on website
 - [Added CSS template for styling](https://codepen.io/3psy0n/pen/LYpajmX)
 - [Deployment on GitHub Pages](https://github.com/gitname/react-gh-pages)
 
+Issues
+
+- The text is all in white and cannot be seen
+  - Fixed by adding style to each of the elements that were not showing up, would prefer an alternative
+- The images are unable to be loaded
+
 Next Steps
 
 - Styling and formatting of each Section

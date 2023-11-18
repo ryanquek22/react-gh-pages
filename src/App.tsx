@@ -3,11 +3,14 @@ import Card from "./components/Card";
 import Projects from "./assets/data/project.json";
 import ProjectCard from "./components/ProjectCard";
 import Education from "./assets/data/Education.json";
+import "./App.css";
 
 const App = () => {
+  const blackText = "black-text";
+
   return (
     <>
-      <div>
+      <div className={blackText}>
         <h1>
           <center>
             Hi there, this is very much still a work in progress, check back
@@ -15,7 +18,7 @@ const App = () => {
           </center>
         </h1>
       </div>
-      <div>
+      <div className={blackText}>
         <h1>
           <center>Education</center>
         </h1>
@@ -31,7 +34,7 @@ const App = () => {
         <>
           {Education.Activity.map((activity) => {
             return (
-              <>
+              <div className={blackText}>
                 <p>
                   {activity.ActivityName} {activity.ActivityDuration}
                 </p>
@@ -40,13 +43,13 @@ const App = () => {
                     return <li>{acitivtyRemark}</li>;
                   })}
                 </ul>
-              </>
+              </div>
             );
           })}
         </>
       </div>
       <div>
-        <div>
+        <div className={blackText}>
           <h1>
             <center>Internship Experience</center>
           </h1>
@@ -64,7 +67,7 @@ const App = () => {
             );
           })}
       </div>
-      <div>
+      <div className={blackText}>
         <h1>
           <center>Extra Curricular Activities</center>
         </h1>
