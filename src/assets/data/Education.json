@@ -1,0 +1,37 @@
+{
+    "School" : "National University of Singapore",
+    "Period" : "Aug 2021 - Present",
+    "Major" : "Bachelor of Engineering (Honors) in Industrial Systems Engineering, Minor in Computer Science",
+    "Remarks" : [
+        "Part of the NUS College multidisciplinary programme, formerly known as USP",
+        "Recipient of the NUS Merit Scholarship (Academic Excellence, Leadership)",
+        "Current GPA 4.63/5.00, First Class Honors" 
+    ],
+
+    "Activity" : [
+        {
+            "ActivityName" : "NUS Independent Research Module",
+            "ActivityDuration" : "Nov 2023 - Apr 2024",
+            "ActivityRemarks" : [
+                "Research Topic -  Explainable Artificial Intelligence: Identifying keywords in sentiment-based text analysis"
+            ]
+        },
+
+        {
+            "ActivityName" : "NUS Overseas College (NOC) Programme - Israel",
+            "ActivityDuration" : "Jul 2023 - Dec 2023",
+            "ActivityRemarks" : [
+                "In partnership with Reichman University, NOC offers a unique entrepreneurship education in Israel (Tel Aviv) in the form of entrepreneurship courses and an onsite internship with a startup"
+            ]
+        },
+        
+        {
+            "ActivityName" : "Undergraduate Research Opportunities Programme (UROP)",
+            "ActivityDuration": "Jan 2023 - Apr 2023",
+            "ActivityRemarks" : [
+                "Research Topic - Dynamic Pricing and Third-Party Delivery Services in Single-Day Last Mile Delivery Fulfilment for Singapore",
+                "Built a simulation model that identifies threshold values of key variables (Number of orders in a day) and recommends different management strategies to minimise cost for e-commerce companies"
+            ]
+        }
+    ]
+}

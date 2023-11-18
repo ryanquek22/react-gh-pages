@@ -1,0 +1,63 @@
+[
+    {
+        "Title" : "Partnerships, The 100 Club",
+        "Date" : "May 2022 - Present",
+        "Details" : [
+            "A student-initiated project, The 100 Club runs masterminds community to support a private network of founders (https://the100club.io/)",
+            "Secured various partnerships for The 100 Club with local restaurants and brands to provide members of the community exclusive benefits"
+        ],
+        "Skills" : []
+    },
+    
+    {
+        "Title" : "NUS Teaching Assitant (Programming Methodology II)",
+        "Date" : "Jan 2023 - Apr 2023",
+        "Details" : [
+            "Responsible for conducting weekly lab sessions and providing constructive feedback for students in the area of Java Object Oriented Programming (OOP) and Functional Programming",
+            "Provided guidance for students to create their own Discrete Event Simulator in Java"
+        ],
+        "Skills" : ["Java"]
+    },
+    
+
+    {
+        "Title" : "MICRON NUS-ISE Business Analytics Case Competition 2023",
+        "Date" : "Feb 2023",
+        "Details" : [
+            "Designed a simulation of a manufacturing plant to model the constraints of various workstations and steps in the manufacturing process", 
+            "Developed decision making algorithms for the model to maximise the number of completed products over a period of 1 week"
+            ],
+        "Skills" : ["Mathematical Modeling", "Python"]
+    },
+
+    {
+        "Title" : "NUS Hack&Roll Hackathon 2023",
+        "Date" : "Jan 2023",
+        "Details" : [
+            "Developed a platform to facilitate the process of meetups between friends by recommending a restaurant in the middle of both individuals (https://malcolminthemiddle.netlify.app/)",
+            "Contributed to the backend development of the platform with the usage of Google Maps API"
+            ],
+        "Skills" : ["Python"]
+    },
+
+    {
+        "Title" : "AI Singapore, National AI Student Challenge 2022, Category B",
+        "Date" : "Dec 2022 - Jan 2023",
+        "Details" : [
+            "Developed a face shape classification model to create better recommendations for individuals looking to get new glasses using AI Singapore’s Computer Vision API (https://github.com/joesurf/faceshape)",
+            "Pre-processed dataset of images to improve training accuracy of machine learning model",
+            "Managed backend development to integrate face shape classification model with PeekingDuck API pipeline (https://github.com/aisingapore/PeekingDuck)"
+            ],
+        "Skills" : ["Computer Vision", "Machine Learning", "Python"]
+    },
+
+    {
+        "Title" : "11th USP House Committee, Triton House Captain",
+        "Date" : "Sep 2021 - Aug 2022",
+        "Details" : [
+            "Faciliated the transition of the community House System as USP transitioned to NUS College",
+            "Planned a variety of events for more than 200 people on a throughout the year"
+        ],
+        "Skills" : ["Event Planning", "3D printing"]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Title" : "Software Engineer Intern, Knovel Engineering, Singapore",
+        "Date" : "Nov 2023 - Jan 2024",
+        "Details" : [
+            "Performed market research for Product Market Fit in the field of Generative AI"
+        ],
+        "ImagePath" : "../src/assets/knovel_logo.png",
+        "Skills" : ["React", "Typescript" ]
+    },
+    
+    {
+        "Title" : "Backend Engineer Intern, SayMine Technologies, Israel (Tel Aviv)",
+        "Date" : "Jul 2023 - Oct 2023",
+        "Details" : [
+            "Developed REST API integrations using ApiKey and OAuth 2.0 authentication framework to help B2B clients automate the process of complying with the requirements specified in the EU-GDPR",
+            "Refactored and optimised legacy code through parallel programming, which reduced the API response time by more than 60%",
+            "Created Couchbase N1QL Indexes and Queries, which provided a detailed breakdown of data stored across millions of documents, and enabled the company to minimise disruptions to the web app users during deployment of new software features",
+            "Worked with other team members to implement a cloud-based cache on Couchbase and reduced the API response time for by more than 90%"
+        ],
+        "ImagePath" : "../src/assets/saymine_logo.png",
+        "Skills" : ["C#", "Couchbase", "Docker", "GCP", "Kubernetes", "Unleash", ".NET (MVC)"]
+    },
+    
+    {
+        "Title" : "Software Engineer Intern, NUS Industry Liaison Office, Singapore",
+        "Date" : "Jan-2023 - Apr 2023 (Part Time)",
+        "Details" : [
+            "Designed the Flutter user interface for cross-platform mobile applications and developed REST APIs endpoints between Django and MongoDB for an AgriTech mobile application"
+        ],
+        "ImagePath" : "../src/assets/nuse_logo.png",
+        "Skills" : ["Django", "Flutter", "MongoDB", "Python"]
+    }
+]
